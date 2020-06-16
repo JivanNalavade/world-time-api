@@ -8,7 +8,6 @@
     <packaging>mule-application</packaging>
 
 	<name>world-time-api</name>
-
     <properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -34,6 +33,7 @@
 				<applicationName>world-time-api</applicationName>
 				<password>Jivan1</password>
 				<muleVersion>4.2.2</muleVersion>
+				<objectStoreV2>true</objectStoreV2>
 				</cloudHubDeployment>
 				</configuration>
 			</plugin>
