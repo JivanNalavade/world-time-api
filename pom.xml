@@ -28,7 +28,7 @@
 				<configuration>
 				<cloudHubDeployment>
 				<username>jivan72</username>
-				<environment>sandbox</environment>
+				<environment>Sandbox</environment>
 				<workers>1</workers>
 				<workerType>Micro</workerType>
 				<applicationName>world-time-api</applicationName>
