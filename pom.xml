@@ -32,8 +32,8 @@
 				<workers>1</workers>
 				<workerType>Micro</workerType>
 				<applicationName>world-time-api</applicationName>
-				<muleVersion>4.2.2</muleVersion>
 				<password>Jivan1</password>
+				<muleVersion>4.2.2</muleVersion>
 				</cloudHubDeployment>
 				</configuration>
 			</plugin>
